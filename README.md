@@ -48,10 +48,6 @@ php-ecommerce-website/
 
 ---
 
-## 🔗 Live Demo  
-👉 [Click Here](https://attiq-ur-rehman4855.github.io/php-ecommerce-website/)  
-
----
 
 ## 👨‍💻 Author  
 - Attiq Ur Rehman  
